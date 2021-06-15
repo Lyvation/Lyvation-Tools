@@ -1,0 +1,7 @@
+requests
+colorama
+pyfiglet
+urllib
+base64
+discord
+threading
